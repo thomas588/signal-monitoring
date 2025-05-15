@@ -1,0 +1,8 @@
+{
+  "device_id": "pressure_01",
+  "type": "pressure",
+  "value": 101.0,
+  "unit": "\u043a\u041f\u0430",
+  "timestamp": 1747316204.650335,
+  "status": "normal"
+}

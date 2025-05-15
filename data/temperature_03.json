@@ -1,0 +1,8 @@
+{
+  "device_id": "temperature_03",
+  "type": "temperature",
+  "value": 17.73,
+  "unit": "\u00b0C",
+  "timestamp": 1747316204.650335,
+  "status": "normal"
+}

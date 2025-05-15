@@ -1,0 +1,8 @@
+{
+  "device_id": "humidity_01",
+  "type": "humidity",
+  "value": 35.07,
+  "unit": "%",
+  "timestamp": 1747316204.650335,
+  "status": "normal"
+}
